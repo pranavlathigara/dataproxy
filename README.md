@@ -1,5 +1,5 @@
 # DataProxy
-Library that provide easy way to stream method through a common interface to remote devices.
+Library that provide easy way make a comunication between remote application (such wear and phone application, processes, etc) using a common interface.
 
 # Usage
 
