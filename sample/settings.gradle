@@ -1,1 +1,5 @@
-include ':..:library', ':mobile', ':wear', ':common'
+include ':mobile'
+include ':wear'
+include ':common'
+include ':dataproxy'
+project(':dataproxy').projectDir = new File('../../dataproxy')
